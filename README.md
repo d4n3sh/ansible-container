@@ -1,6 +1,6 @@
 # My Ansible controller container. 🎛️
 
-I now have a portable Ansible control environment that can be used on multiple OS distributions.
+I now have a portable Ansible control environment that I can run on multiple OS distributions.
 
 Build the docker image.
 
